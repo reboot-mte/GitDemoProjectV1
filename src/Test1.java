@@ -1,6 +1,6 @@
 
 public class Test1 {
-
+//Just a comment
 	public static void main(String[] args) {
 		String hungry = "yes";
 		if (hungry == "yes")
